@@ -1,3 +1,4 @@
+/* // primeira aula mostrando js usando css pra trabalhar com o dome usar foreach  
 var campos = [
 document.querySelector('#data'),
 document.querySelector('#quantidade'),
@@ -27,5 +28,5 @@ campos[1].value = 1;
 campos[2].value = 0;
 campos[0].focus();
 
-});
+});*/
 
